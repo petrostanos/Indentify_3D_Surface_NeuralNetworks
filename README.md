@@ -14,4 +14,6 @@ The principal curvatures of 3-D surface is selected as learning feature for neur
 11. gridCreationHorizontal.m -> return node in opposite direction
 12. createNeuralNet.m -> create and train simple neural network (1 hidden layer with 10 hidden neurons)
 13. trainTestMerge.m -> return merged neural networks
-14. 
+14. neuralNetworks.m -> return neural networks of a 3-D surface
+15. testing.m -> return performance of neural networks
+16. mergeNetworks -> merge neural networks
